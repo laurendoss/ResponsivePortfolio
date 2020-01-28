@@ -1,0 +1,45 @@
+/*Navigation Bar Styling*/
+.ml-auto {
+    margin-left: auto !important
+}
+
+.nav_name {
+    background-color: #00b3b3;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.top-row {
+    border-bottom: 2.5px solid #D3D3D3;
+    padding-top: 0px;
+}
+
+/*About Me Card Styling*/
+.about-me {
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-header, .card-body {
+    background-color: white;
+}
+.card-header {
+    color: #00b3b3;
+    font-weight: bold;
+    font-size: 24px;
+    border-bottom: #D3D3D3 solid 3px;
+    
+}
+.about-me {
+    border: #D3D3D3 solid 3px;
+    margin-top: 10px;
+    height: 400px;
+    z-index: 2;
+    background-color: white;
+}
+.body-page {
+    background-color: #D3D3D3;
+    z-index: 1;
+
+}
