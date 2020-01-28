@@ -39,3 +39,13 @@ h3 {
     padding-bottom: 10px;
     
 }
+
+/*Contact Form Styling*/
+
+form {
+    border: #D3D3D3 solid 3px;
+    padding: 10px;
+}
+button {
+    padding: 6px;
+}
