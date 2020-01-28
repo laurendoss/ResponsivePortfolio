@@ -31,4 +31,11 @@
     border-bottom: #D3D3D3 solid 3px;
     
 }
-
+img {
+    margin: 5px;
+}
+h3 {
+    border-bottom: #D3D3D3 solid 3px;
+    padding-bottom: 10px;
+    
+}
