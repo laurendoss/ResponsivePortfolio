@@ -4,7 +4,7 @@
 }
 
 .nav_name {
-    background-color: #00b3b3;
+    background-color: #b76e79;
     color: white;
     text-align: center;
     padding: 10px;
@@ -25,7 +25,7 @@
     background-color: white;
 }
 .card-header {
-    color: #00b3b3;
+    color: #b76e79;
     font-weight: bold;
     font-size: 24px;
     border-bottom: #D3D3D3 solid 3px;
@@ -49,8 +49,18 @@ form {
 }
 button {
     padding: 6px;
+    
 }
 h2 {
     border-bottom: #D3D3D3 solid 3px;
     padding-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #b76e79;
+    border-color: #b76e79;
+}
+.btn-primary:hover {
+    background-color: #AA8C2C;
+    border-color: #AA8C2C;
 }
