@@ -37,6 +37,7 @@ img {
 h3 {
     border-bottom: #D3D3D3 solid 3px;
     padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
 
@@ -54,6 +55,7 @@ button {
 h2 {
     border-bottom: #D3D3D3 solid 3px;
     padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .btn-primary {
@@ -63,4 +65,14 @@ h2 {
 .btn-primary:hover {
     background-color: #AA8C2C;
     border-color: #AA8C2C;
+}
+
+/* Styling Cards on Portfolio Page */
+
+.card-title {
+    background-color: #b76e79;
+    margin: 0px;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    text-align: center;
 }
