@@ -1,3 +1,11 @@
+
+.containerPortfolio {
+    border: 3px solid #D3D3D3;
+    margin: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
 /*Navigation Bar Styling*/
 .ml-auto {
     margin-left: auto !important
@@ -72,6 +80,8 @@ h2 {
 .card-title {
     background-color: #b76e79;
     text-align: center;
+    font-size: 28px;
+    padding-top: 12px;
     height: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     
@@ -82,7 +92,7 @@ h2 {
     padding-left: 0px;
     padding-right: 0px;
     margin: 0px;
-    margin-top: 150px;
+    margin-top: 200px;
     
    
 }
@@ -91,4 +101,16 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
+    border: none;
+}
+
+.content-row1 {
+    padding-top: 15px;
+}
+
+.portfolioTitle {
+    border: none;
+    border-bottom: #D3D3D3 5px solid;
+    padding: 15px
+
 }
