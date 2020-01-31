@@ -6,10 +6,9 @@
     margin-right: 140px;
 }
 
-
 /*Navigation Bar Styling*/
 .ml-auto {
-    margin-left: auto !important
+    margin-left: auto !important;
 }
 
 .nav_name {
@@ -77,6 +76,7 @@ h2 {
     border-color: #AA8C2C;
 }
 
+
 /* Styling Cards on Portfolio Page */
 
 .card-title {
@@ -110,13 +110,16 @@ h2 {
     padding-top: 15px;
 }
 
-.portfolioTitle {
-    padding: 15px
-    
-}
 
 hr {
     border: #D3D3D3 solid 1.5px;
+}
+
+.portfolioTitle {
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #b76e79;
+    
 }
 
 /* Footer Styling*/
@@ -171,4 +174,4 @@ h6 {
         
     
   }
-
+ 
