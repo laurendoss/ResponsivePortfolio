@@ -119,6 +119,26 @@ hr {
     border: #D3D3D3 solid 1.5px;
 }
 
+/* Footer Styling*/
+.container-footer {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-footer {
+    background-color: #b76e79;
+    border-top: #AA8C2C 5px solid;
+}
+h6 {
+    color: white;
+    padding-left: 5px;
+}
+.fa-copyright {
+    padding: 4px;
+}
+
+
+
     
 
 
@@ -151,3 +171,4 @@ hr {
         
     
   }
+
