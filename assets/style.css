@@ -71,8 +71,24 @@ h2 {
 
 .card-title {
     background-color: #b76e79;
-    margin: 0px;
-    margin-block-end: 0px;
-    margin-block-start: 0px;
     text-align: center;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.card-img-overlay {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+    margin-top: 150px;
+    
+   
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
